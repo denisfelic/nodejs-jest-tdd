@@ -1,0 +1,6 @@
+# Regras de negócio para a classe student
+
+Regras:
+    ☐ Deve retornar zero caso o aluno não tenha nenhuma nota
+    ☐ Deve retornar média 6.75, caso as notas sejam 7,8,5,7
+    ☐ Deve retornar zero, caso alguma nota seja maior que 10
